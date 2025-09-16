@@ -80,5 +80,3 @@ Dispositivos IoT a integrar
 
 • Ajustan automáticamente la temperatura según la ocupación de la habitación.
 • El huésped puede controlar el clima desde la app del sistema.
-
-TEAM LEADER: ADRIAN QUIROZ CÁCERES (U202214864).
